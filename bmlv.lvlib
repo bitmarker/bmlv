@@ -4,4 +4,5 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Dictionary.lvclass" Type="LVClass" URL="../Dictionary/Dictionary.lvclass"/>
+	<Item Name="DoubleDictionary.lvclass" Type="LVClass" URL="../DoubleDictionary/DoubleDictionary.lvclass"/>
 </Library>
